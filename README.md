@@ -4,6 +4,8 @@
 
 ## About
 
+[![Slack](https://slack.bri.im/badge.svg)](https://slack.bri.im)
+
 Pavlov.js uses Markov Decision Processes to implement reinforcement learning. It is written in C++ and compiled to JavaScript. For more on reinforcement learning, check out Andrew Ng's <a href="http://cs229.stanford.edu/notes/cs229-notes12.pdf">notes</a>.
 
 ## Installation
